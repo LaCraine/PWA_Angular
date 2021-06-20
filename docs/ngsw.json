@@ -1,0 +1,81 @@
+{
+  "configVersion": 1,
+  "timestamp": 1624182608964,
+  "index": "https://lacraine.github.io/PWA_Angular/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://lacraine.github.io/PWA_Angular/favicon.ico",
+        "https://lacraine.github.io/PWA_Angular/index.html",
+        "https://lacraine.github.io/PWA_Angular/main.0953bbb6a54d7637f4f0.js",
+        "https://lacraine.github.io/PWA_Angular/manifest.webmanifest",
+        "https://lacraine.github.io/PWA_Angular/polyfills.dd692b21d29cacc0e754.js",
+        "https://lacraine.github.io/PWA_Angular/runtime.2990d533dd6b79ecc8a3.js",
+        "https://lacraine.github.io/PWA_Angular/styles.31d6cfe0d16ae931b73c.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://lacraine.github.io/PWA_Angular/assets/icons/icon-128x128.png",
+        "https://lacraine.github.io/PWA_Angular/assets/icons/icon-144x144.png",
+        "https://lacraine.github.io/PWA_Angular/assets/icons/icon-152x152.png",
+        "https://lacraine.github.io/PWA_Angular/assets/icons/icon-192x192.png",
+        "https://lacraine.github.io/PWA_Angular/assets/icons/icon-384x384.png",
+        "https://lacraine.github.io/PWA_Angular/assets/icons/icon-512x512.png",
+        "https://lacraine.github.io/PWA_Angular/assets/icons/icon-72x72.png",
+        "https://lacraine.github.io/PWA_Angular/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://lacraine.github.io/PWA_Angular/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://lacraine.github.io/PWA_Angular/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://lacraine.github.io/PWA_Angular/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://lacraine.github.io/PWA_Angular/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://lacraine.github.io/PWA_Angular/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://lacraine.github.io/PWA_Angular/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://lacraine.github.io/PWA_Angular/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://lacraine.github.io/PWA_Angular/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://lacraine.github.io/PWA_Angular/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://lacraine.github.io/PWA_Angular/index.html": "8ac90c7ceaff1f37869615c497c7b975b5871d4d",
+    "https://lacraine.github.io/PWA_Angular/main.0953bbb6a54d7637f4f0.js": "6730fd56e4652c79df90b77a4274958bebb31544",
+    "https://lacraine.github.io/PWA_Angular/manifest.webmanifest": "57bd2c75a490c6f3a0da76d02c2a802974f05fe4",
+    "https://lacraine.github.io/PWA_Angular/polyfills.dd692b21d29cacc0e754.js": "71b8cdf6a6602aa867b7dc1114d40a83a2af7855",
+    "https://lacraine.github.io/PWA_Angular/runtime.2990d533dd6b79ecc8a3.js": "e5cb08a5d91b4849739ecd90deca0713ce1c8597",
+    "https://lacraine.github.io/PWA_Angular/styles.31d6cfe0d16ae931b73c.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
